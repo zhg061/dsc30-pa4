@@ -9,7 +9,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class SortsTest {
+public class SortsTester {
     ArrayList<Integer> number1;
     Sorts sort1;
     ArrayList<Integer> number2;

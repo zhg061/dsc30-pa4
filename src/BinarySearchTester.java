@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class BinarySearchTest {
+public class BinarySearchTester {
     ArrayList<Integer> number1;
     ArrayList<Integer> number2;
     ArrayList<Integer> number3;

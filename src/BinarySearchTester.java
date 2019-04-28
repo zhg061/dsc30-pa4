@@ -56,7 +56,7 @@ public class BinarySearchTest {
         number3.add(70);
         number3.add(87);
         assertEquals(null,bs.binarySearch(number3, 0, 6,100));
-        
+
         number4.add("a");
         number4.add("b");
         number4.add("c");

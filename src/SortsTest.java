@@ -161,7 +161,7 @@ public class SortsTest {
         sort5.MergeSort(number5, 0, 5);
         List<Integer> r5 = Arrays.asList(0, 1, 2, 3, 5, 10);
         assertArrayEquals(r5.toArray(), number5.toArray());
-        
+
         number6.add("a");
         number6.add("n");
         number6.add("c");

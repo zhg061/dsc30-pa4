@@ -232,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RuntimeAnalysis">
+  <component name="RunManager" selected="JUnit.BinarySearchTest.binarySearch">
     <configuration name="DictionaryCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DictionaryCount" />
       <module name="dsc30-pa4" />
@@ -286,11 +286,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
+        <item itemvalue="JUnit.BinarySearchTest" />
         <item itemvalue="Application.RuntimeAnalysis" />
         <item itemvalue="Application.DictionaryCount" />
-        <item itemvalue="JUnit.BinarySearchTest" />
         <item itemvalue="JUnit.SortsTest" />
-        <item itemvalue="JUnit.BinarySearchTest.binarySearch" />
       </list>
     </recent_temporary>
   </component>

@@ -38,6 +38,7 @@ public class BinarySearchTest {
         number1.add(45);
         number1.add(87);
         assertEquals(new Integer(6),bs.binarySearch(number1, 0, 7,45));
+
         number2.add(2);
         number2.add(4);
         number2.add(10);
@@ -46,6 +47,7 @@ public class BinarySearchTest {
         number2.add(70);
         number2.add(87);
         assertEquals(new Integer(4),bs.binarySearch(number2, 0, 6,45));
+
         number3.add(2);
         number3.add(4);
         number3.add(10);
@@ -54,6 +56,7 @@ public class BinarySearchTest {
         number3.add(70);
         number3.add(87);
         assertEquals(null,bs.binarySearch(number3, 0, 6,100));
+        
         number4.add("a");
         number4.add("b");
         number4.add("c");

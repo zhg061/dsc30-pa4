@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0b06876-192b-4159-8b04-6b214c720ba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/lucyg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsc30-pa4/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsc30-pa4/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsc30-pa4/BinarySearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsc30-pa4/BinarySearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsc30-pa4/DictionaryCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsc30-pa4/DictionaryCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsc30-pa4/RuntimeAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsc30-pa4/RuntimeAnalysis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsc30-pa4/Sorts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsc30-pa4/Sorts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsc30-pa4/SortsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dsc30-pa4/SortsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DictionaryCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DictionaryCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RuntimeAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RuntimeAnalysis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a0b06876-192b-4159-8b04-6b214c720ba7" name="Default Changelist" comment="updated file" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RuntimeAnalysis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2914">
-              <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+            <state relative-caret-position="95">
+              <caret line="238" column="44" lean-forward="true" selection-start-line="238" selection-start-column="44" selection-end-line="238" selection-end-column="44" />
               <folding>
                 <element signature="e#0#6803#0" expanded="true" />
                 <element signature="imports" expanded="true" />
@@ -344,6 +329,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.81546134" visible="true" weight="0.19757085" />
       <window_info id="Designer" order="1" />
@@ -493,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RuntimeAnalysis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2914">
-          <caret line="61" column="35" lean-forward="true" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+        <state relative-caret-position="95">
+          <caret line="238" column="44" lean-forward="true" selection-start-line="238" selection-start-column="44" selection-end-line="238" selection-end-column="44" />
           <folding>
             <element signature="e#0#6803#0" expanded="true" />
             <element signature="imports" expanded="true" />
